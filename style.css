@@ -1,0 +1,187 @@
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
+body{
+   margin: 0; 
+   padding: 0;
+   font-family: 'Roboto', sans-serif;
+}
+body p{
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+/* Nav Start */
+
+ul{
+    width: auto;
+    margin-left: 50%;
+    margin-top: 8px;
+    margin-right: 10%;
+    
+    
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+    
+    
+}
+.nav{
+    text-align: center;
+    color:#3C3C3C;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.nav:hover{
+    color: #FF8367;
+    transition: 0.5s;
+}
+/* Nav End */
+
+/* First Block Start */
+.half-width{
+
+    width: 27%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 200px;
+    float: left;
+}
+#firstblock{
+   font-family: 'Bebas Neue', cursive;
+   font-size: 80px;
+   margin-bottom: 5px;
+   line-height: 1;
+}
+#bluecolor{
+    color: #363958;
+    font-weight: 550;
+
+}
+#orangecolor{
+    color: #FF8367;
+    font-weight: 550;
+}
+#firstblockp{
+    margin-bottom: 40px;
+
+}
+
+.halfwidthpic{
+    margin-top: 0;
+    width: 40%;
+    display: inline-block;
+
+}
+.halfwidthpic img{
+    width: 80%;
+}
+/* First Block End */
+
+.btn{
+    
+    color: white;
+    margin-top: 200px;
+    background-image: linear-gradient(180deg,#f56160,#fc7562);
+    font-weight: 400;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.btn:hover{
+    background-color: #4c6fe2;
+    transition: 0.5s;
+}
+
+
+/* Second Block Start */
+.second-half-width{
+    width: 27%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 200px;
+    display: inline-block;
+}
+
+
+.second-half-width-pic{
+    margin-top: -150px;
+    width: 40%;
+    float: left;
+
+}
+.second-half-width-pic img{
+    width: 80%;
+}
+#about{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+
+}
+
+/* Second Block End */
+/* Box Start */
+.project{
+    background-color: #f8f9fc;
+    margin-top: 300px;
+    padding: 150px;
+}
+.box{
+    background-color: white;
+    width: 370px;
+    height: 370px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 4%;
+    box-shadow: 10px 10px 40px gray;
+}
+.box img{
+    margin: 5%;
+    width: 90%;
+    margin-bottom: 3px;
+    border-radius: 10px;
+}
+.box h1{
+    padding-left:5% ;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 900;
+}
+.box p{
+    padding-left: 5%;
+    text-align: left;
+}
+ 
+#project-header{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+/* Box End */
+
+.footer h2{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: lighter;
+    font-size: 24px;
+    color: #696871;
+}
+.footer h1{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 36px;
+    margin-top: -10px;
+    font-weight: 700;
+}
+.img{
+    margin-top: -15px;
+    padding: 13px;
+    width: 40px;
+    height: 40px;  
+}
+
+
+
