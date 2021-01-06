@@ -88,14 +88,14 @@ li{
     background-image: linear-gradient(180deg,#f56160,#fc7562);
     font-weight: 400;
     text-decoration: none;
-    background-color: orangered;
     padding: 10px 20px;
     border-radius: 5px;
 
 }
 .btn:hover{
-    background-color: #4c6fe2;
+    
     transition: 0.5s;
+    background-image: linear-gradient(180deg,#6b26e9,#4b71e2);
 }
 
 
